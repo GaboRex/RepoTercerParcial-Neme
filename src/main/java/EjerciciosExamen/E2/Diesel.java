@@ -2,19 +2,25 @@ package EjerciciosExamen.E2;
 
 import java.util.Random;
 
-public class Diesel implements ICuadratrack{
-    private Random CantidadCombustible = new Random(50);
+public class Diesel implements ICuadratrack {
+    private int capacidad;
 
     public Diesel() {
+        capacidad = 0;
     }
 
     @Override
     public void llenarCombustible() {
-        System.out.println("El cuadratrack tiene capacidad de : " + CantidadCombustible + "litros");
+        System.out.println("---- Cargando diesel ----");
+        capacidad = new Random().nextInt(50);
+        System.out.println("Capacidad: " + capacidad);
+        System.out.println();
     }
 
     @Override
     public void estadoCombustible() {
-        System.out.println("El cuadratrack tiene  : " + CantidadCombustible + "litros");
+        System.out.println("---- Estado combustible  ----");
+        System.out.println("Estado: " + new Random().nextInt(50));
+        System.out.println();
     }
 }
