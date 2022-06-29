@@ -1,4 +1,4 @@
-package EstructurasPatrones.Interpreter;
+package EstructurasBasicas.Interpreter;
 
 public abstract class AbstractExpression {
     // Lógica para interpretar cierto contexto

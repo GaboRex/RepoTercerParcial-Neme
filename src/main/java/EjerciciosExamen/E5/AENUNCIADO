@@ -1,0 +1,12 @@
+5) 10% Decorator : Se tiene distintas marcas de celulares (Apple , Samsung, Xiaomi) que
+tienen atributos de características de recursos (ram, almacenamiento y cpu) donde se desea
+decorar estos celulares con : carcasa (precio) incrementa el precio del celular, vidrio templado
+que incrementa el precio de celular , memoria externa que incremente el precio del celular y la
+memoria de almacenamiento.
+
+
+------------------------------------------------------------------------------
+IComponent -> ICelular
+ConcreteComponent -> Celular
+Decorator -> Extras
+ConcreteDecorator -> AgregarCarcasa, AgrgearVidrioTemplado, AgregarMemoriaExterna

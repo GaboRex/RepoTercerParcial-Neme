@@ -1,4 +1,4 @@
-package EstructurasPatrones.Prototype;
+package EstructurasBasicas.Prototype;
 
 public class Cliente {
     public static void main(String[] args){

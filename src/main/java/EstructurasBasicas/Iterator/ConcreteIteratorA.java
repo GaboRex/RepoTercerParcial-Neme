@@ -1,4 +1,4 @@
-package EstructurasPatrones.Iterator;
+package EstructurasBasicas.Iterator;
 
 public class ConcreteIteratorA implements Iterator{
         private int position;

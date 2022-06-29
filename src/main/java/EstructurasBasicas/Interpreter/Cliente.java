@@ -1,4 +1,4 @@
-package EstructurasPatrones.Interpreter;
+package EstructurasBasicas.Interpreter;
 
 public class Cliente {
     public static void main(String[] args){

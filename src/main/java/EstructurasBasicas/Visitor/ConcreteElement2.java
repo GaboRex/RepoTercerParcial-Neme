@@ -1,4 +1,4 @@
-package visitor.structure;
+package EstructurasBasicas.Visitor;
 
 public class ConcreteElement2 implements IElement{
     String attribute1;

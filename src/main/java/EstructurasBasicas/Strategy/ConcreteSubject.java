@@ -1,4 +1,4 @@
-package EstructurasPatrones.Strategy;
+package EstructurasBasicas.Strategy;
 
 import java.util.ArrayList;
 import java.util.List;

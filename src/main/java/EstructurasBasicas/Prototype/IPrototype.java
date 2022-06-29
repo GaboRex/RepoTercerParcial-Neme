@@ -1,4 +1,4 @@
-package EstructurasPatrones.Prototype;
+package EstructurasBasicas.Prototype;
 
 public interface IPrototype extends Cloneable {
     Object clone();

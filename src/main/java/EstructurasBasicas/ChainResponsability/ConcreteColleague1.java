@@ -1,4 +1,4 @@
-package EstructurasPatrones.ChainResponsability;
+package EstructurasBasicas.ChainResponsability;
 
 public class ConcreteColleague1 extends Colleague{
 

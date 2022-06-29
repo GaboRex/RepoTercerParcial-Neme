@@ -1,4 +1,4 @@
-package EstructurasPatrones.FactoryMethod;
+package EstructurasBasicas.FactoryMethod;
 
 public class ConcreteCreatorP2 extends Creator {
     //Puede tener más lógica

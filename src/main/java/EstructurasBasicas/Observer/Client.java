@@ -1,4 +1,4 @@
-package EstructurasPatrones.Observer;
+package EstructurasBasicas.Observer;
 
 public class Client {
     public static void main (String [] args){

@@ -1,4 +1,4 @@
-package EstructurasPatrones.Observer;
+package EstructurasBasicas.Observer;
 
 import java.util.ArrayList;
 import java.util.List;

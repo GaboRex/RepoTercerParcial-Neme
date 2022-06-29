@@ -1,4 +1,4 @@
-package EstructurasPatrones.Command;
+package EstructurasBasicas.Command;
 
 public class Client {
     public static void main(String [] args){

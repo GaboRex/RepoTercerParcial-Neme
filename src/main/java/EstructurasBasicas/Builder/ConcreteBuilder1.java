@@ -1,4 +1,4 @@
-package EstructurasPatrones.Builder;
+package EstructurasBasicas.Builder;
 
 public class ConcreteBuilder1 extends Builder{
     @Override

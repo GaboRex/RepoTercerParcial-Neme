@@ -1,4 +1,4 @@
-package EstructurasPatrones.Prototype;
+package EstructurasBasicas.Prototype;
 
 public class ConcretePrototype1 {
     private String attribute1;

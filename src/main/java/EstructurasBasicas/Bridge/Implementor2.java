@@ -1,4 +1,4 @@
-package bridge.structure;
+package EstructurasBasicas.Bridge;
 
 public class Implementor2 implements Implementor{
     @Override

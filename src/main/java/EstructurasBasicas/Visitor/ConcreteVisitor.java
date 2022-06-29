@@ -1,4 +1,4 @@
-package visitor.structure;
+package EstructurasBasicas.Visitor;
 
 public class ConcreteVisitor implements IVisitor{
     @Override

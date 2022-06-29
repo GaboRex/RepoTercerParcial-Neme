@@ -1,4 +1,4 @@
-package EstructurasPatrones.Builder;
+package EstructurasBasicas.Builder;
 
 public class Director {
     private Builder builder;

@@ -1,4 +1,4 @@
-package visitor.structure;
+package EstructurasBasicas.Visitor;
 
 public interface IVisitor {
     String visitElement1(ConcreteElement1 concreteElement1);

@@ -1,4 +1,4 @@
-package EstructurasPatrones.FactoryMethod;
+package EstructurasBasicas.FactoryMethod;
 
 public class ConcreteProduct1 implements IProduct{
     private String attribute1;

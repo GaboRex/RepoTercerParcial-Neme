@@ -1,4 +1,4 @@
-package adapter.strcuture;
+package EstructurasBasicas.Adapter;
 
 public interface IAdapter {
     void method1();

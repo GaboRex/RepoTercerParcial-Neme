@@ -1,4 +1,4 @@
-package adapter.strcuture;
+package EstructurasBasicas.Adapter;
 
 public class ElementConcreteB implements  IAdapter{
     @Override

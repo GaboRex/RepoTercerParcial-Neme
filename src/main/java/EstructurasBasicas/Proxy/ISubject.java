@@ -1,4 +1,4 @@
-package proxy.structure;
+package EstructurasBasicas.Proxy;
 
 public interface ISubject {
     void request();

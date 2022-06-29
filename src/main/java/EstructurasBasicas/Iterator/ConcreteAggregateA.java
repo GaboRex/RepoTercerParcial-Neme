@@ -1,4 +1,4 @@
-package EstructurasPatrones.Iterator;
+package EstructurasBasicas.Iterator;
 
 public class ConcreteAggregateA implements IAggregate {
     // Lógica de algún objeto que almacene objetos

@@ -1,4 +1,4 @@
-package composite.structure;
+package EstructurasBasicas.Composite;
 
 public abstract class Component {
 

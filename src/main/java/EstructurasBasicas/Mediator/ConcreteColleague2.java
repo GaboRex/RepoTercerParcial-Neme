@@ -1,4 +1,4 @@
-package EstructurasPatrones.Mediator;
+package EstructurasBasicas.Mediator;
 
 public class ConcreteColleague2 extends Colleague{
 

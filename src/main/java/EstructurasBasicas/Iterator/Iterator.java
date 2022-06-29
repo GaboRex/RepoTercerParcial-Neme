@@ -1,4 +1,4 @@
-package EstructurasPatrones.Iterator;
+package EstructurasBasicas.Iterator;
 
 public interface Iterator {
     Object next();

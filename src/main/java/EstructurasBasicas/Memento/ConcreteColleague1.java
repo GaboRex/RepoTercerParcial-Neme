@@ -1,4 +1,4 @@
-package EstructurasPatrones.Memento;
+package EstructurasBasicas.Memento;
 
 public class ConcreteColleague1 extends Colleague{
 

@@ -1,4 +1,4 @@
-package EstructurasPatrones.Builder;
+package EstructurasBasicas.Builder;
 
 public abstract class Builder {
     protected Product product;

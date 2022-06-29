@@ -1,4 +1,4 @@
-package proxy.structure;
+package EstructurasBasicas.Proxy;
 
 public class Proxy implements ISubject{
     private RealSubject realSubject;

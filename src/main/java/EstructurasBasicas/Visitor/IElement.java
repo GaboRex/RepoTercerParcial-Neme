@@ -1,4 +1,4 @@
-package visitor.structure;
+package EstructurasBasicas.Visitor;
 
 public interface IElement {
      void accept(IVisitor visitor);

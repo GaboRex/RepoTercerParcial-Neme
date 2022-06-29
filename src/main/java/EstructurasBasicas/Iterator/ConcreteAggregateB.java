@@ -1,4 +1,4 @@
-package EstructurasPatrones.Iterator;
+package EstructurasBasicas.Iterator;
 
 import java.util.Vector;
 

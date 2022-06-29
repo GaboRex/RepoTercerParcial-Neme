@@ -1,4 +1,4 @@
-package EstructurasPatrones.Mediator;
+package EstructurasBasicas.Mediator;
 
 public class ConcreteMediator implements Mediator{
     // necesitamos almacenar todos los colleague que se comunicaran

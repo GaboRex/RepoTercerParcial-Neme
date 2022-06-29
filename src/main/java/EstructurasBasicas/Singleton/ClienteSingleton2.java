@@ -1,4 +1,4 @@
-package EstructurasPatrones.Singleton;
+package EstructurasBasicas.Singleton;
 
 public class ClienteSingleton2 {
     public static void main(String[]args){

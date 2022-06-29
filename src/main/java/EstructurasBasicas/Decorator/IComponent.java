@@ -1,4 +1,4 @@
-package decorator.structure;
+package EstructurasBasicas.Decorator;
 
 public interface IComponent {
     void operation();

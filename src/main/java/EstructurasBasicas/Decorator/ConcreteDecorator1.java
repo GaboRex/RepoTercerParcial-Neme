@@ -1,4 +1,4 @@
-package decorator.structure;
+package EstructurasBasicas.Decorator;
 
 public class ConcreteDecorator1 extends Decorator{
 

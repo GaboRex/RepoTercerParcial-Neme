@@ -1,4 +1,4 @@
-package EstructurasPatrones.Strategy;
+package EstructurasBasicas.Strategy;
 
 public class ConcreteObserver1 implements IObserver{
     @Override

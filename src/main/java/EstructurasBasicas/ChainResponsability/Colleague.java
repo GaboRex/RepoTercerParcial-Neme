@@ -1,4 +1,4 @@
-package EstructurasPatrones.ChainResponsability;
+package EstructurasBasicas.ChainResponsability;
 
 public abstract class Colleague {
        protected Mediator mediator;

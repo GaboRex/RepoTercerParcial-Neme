@@ -1,4 +1,4 @@
-package composite.structure;
+package EstructurasBasicas.Composite;
 
 public class Client {
     public static void main (String[]args){

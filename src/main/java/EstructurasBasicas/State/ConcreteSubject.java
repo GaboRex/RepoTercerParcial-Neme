@@ -1,4 +1,4 @@
-package EstructurasPatrones.State;
+package EstructurasBasicas.State;
 
 import java.util.ArrayList;
 import java.util.List;

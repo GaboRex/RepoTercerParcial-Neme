@@ -1,4 +1,4 @@
-package EstructurasPatrones.Mediator;
+package EstructurasBasicas.Mediator;
 
 public abstract class Colleague {
        protected Mediator mediator;

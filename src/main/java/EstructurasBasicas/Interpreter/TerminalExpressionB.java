@@ -1,4 +1,4 @@
-package EstructurasPatrones.Interpreter;
+package EstructurasBasicas.Interpreter;
 
 public class TerminalExpressionB extends AbstractExpression {
     /* Parámetros según el contexto

@@ -1,4 +1,4 @@
-package composite.structure;
+package EstructurasBasicas.Composite;
 
 public class Leaf extends Component{
     public Leaf(String attribute1) {

@@ -1,4 +1,4 @@
-package EstructurasPatrones.Command;
+package EstructurasBasicas.Command;
 
 public interface ICommand {
     void execute();

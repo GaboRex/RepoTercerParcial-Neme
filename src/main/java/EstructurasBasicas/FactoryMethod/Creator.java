@@ -1,4 +1,4 @@
-package EstructurasPatrones.FactoryMethod;
+package EstructurasBasicas.FactoryMethod;
 
 public abstract class Creator {
     public Creator(){}

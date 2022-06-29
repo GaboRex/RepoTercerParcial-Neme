@@ -1,4 +1,4 @@
-package EstructurasPatrones.Singleton;
+package EstructurasBasicas.Singleton;
 
 import java.util.Date;
 

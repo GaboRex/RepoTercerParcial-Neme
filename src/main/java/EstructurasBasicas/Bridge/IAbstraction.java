@@ -1,4 +1,4 @@
-package bridge.structure;
+package EstructurasBasicas.Bridge;
 
 public interface IAbstraction {
     void method1();

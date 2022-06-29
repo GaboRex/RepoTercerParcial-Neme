@@ -1,4 +1,4 @@
-package EstructurasPatrones.Observer;
+package EstructurasBasicas.Observer;
 
 public interface ISubject {
     void attach(IObserver observer);//agregar/adjuntar a los observadores

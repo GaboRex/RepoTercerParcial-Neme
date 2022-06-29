@@ -1,4 +1,4 @@
-package EstructurasPatrones.State;
+package EstructurasBasicas.State;
 
 public class Client {
     public static void main (String [] args){

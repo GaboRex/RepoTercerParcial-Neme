@@ -1,4 +1,4 @@
-package decorator.structure;
+package EstructurasBasicas.Decorator;
 
 public abstract class Decorator implements IComponent{
 

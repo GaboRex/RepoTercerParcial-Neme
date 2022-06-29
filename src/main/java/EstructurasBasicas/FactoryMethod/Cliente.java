@@ -1,4 +1,4 @@
-package EstructurasPatrones.FactoryMethod;
+package EstructurasBasicas.FactoryMethod;
 
 public class Cliente {
     public static void main(String[] args){

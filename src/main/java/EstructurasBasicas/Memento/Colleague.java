@@ -1,4 +1,4 @@
-package EstructurasPatrones.Memento;
+package EstructurasBasicas.Memento;
 
 public abstract class Colleague {
        protected Mediator mediator;
